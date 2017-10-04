@@ -1,2 +1,2 @@
-# DemoGit
-premier pas avec Git
+DemoGit
+premier pas avec Git qui se passe bien
